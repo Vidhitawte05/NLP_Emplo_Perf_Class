@@ -1,7 +1,7 @@
 
 # Employee Performance Classification
 
-Project Overview
+## Project Overview ##
 
 Employee performance classification is a machine learning and deep learning-based project aimed at categorizing employees based on their performance. The system processes textual performance reviews and classifies employees into categories such as "Needs Improvement," "Average," "Good," and "Excellent." This classification helps organizations assess and enhance employee productivity effectively.
 
