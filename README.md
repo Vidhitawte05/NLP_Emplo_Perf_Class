@@ -34,51 +34,51 @@ Machine Learning Models:
 
 * Random Forest Classifier
 
-Gradient Boosting Classifier
+* Gradient Boosting Classifier
 
-Ensemble Model (Voting Classifier with RF & GB)
+* Ensemble Model (Voting Classifier with RF & GB)
 
 Deep Learning Models:
 
-Artificial Neural Networks (ANN)
+* Artificial Neural Networks (ANN)
 
-Convolutional Neural Networks (CNN)
+* Convolutional Neural Networks (CNN)
 
-Recurrent Neural Networks (RNN)
+* Recurrent Neural Networks (RNN)
 
 Language Models:
 
-BERT (Bidirectional Encoder Representations from Transformers)
+* BERT (Bidirectional Encoder Representations from Transformers)
 
-RoBERTa (Robustly Optimized BERT Approach)
+* RoBERTa (Robustly Optimized BERT Approach)
 
 ## Key Observations & Challenges ##
 
 Observations:
 
-Deep learning models (BERT & RoBERTa) outperformed traditional ML models in classification accuracy.
+* Deep learning models (BERT & RoBERTa) outperformed traditional ML models in classification accuracy.
 
-Feature engineering and data preprocessing significantly impacted model performance.
+* Feature engineering and data preprocessing significantly impacted model performance.
 
-SMOTE improved class balance but required careful tuning to avoid overfitting.
+* SMOTE improved class balance but required careful tuning to avoid overfitting.
 
 Challenges:
 
-Imbalanced dataset led to biased model predictions.
+* Imbalanced dataset led to biased model predictions.
 
-Computationally expensive deep learning models required high processing power.
+* Computationally expensive deep learning models required high processing power.
 
-Feature selection and dimensionality reduction were crucial for optimizing performance.
+* Feature selection and dimensionality reduction were crucial for optimizing performance.
 
 ## Potential Improvements & Future Work ##
 
-Integration of additional NLP techniques: Experimenting with advanced transformer models such as GPT-based architectures.
+* Integration of additional NLP techniques: Experimenting with advanced transformer models such as GPT-based architectures.
 
-Hyperparameter tuning: Further fine-tuning of deep learning models to enhance accuracy.
+* Hyperparameter tuning: Further fine-tuning of deep learning models to enhance accuracy.
 
-Expanding the dataset: Incorporating a more diverse dataset for generalization.
+* Expanding the dataset: Incorporating a more diverse dataset for generalization.
 
-Deployment: Implementing a web-based application for real-time classification and feedback analysis.
+* Deployment: Implementing a web-based application for real-time classification and feedback analysis.
 
 ## Conclusion ##
 
