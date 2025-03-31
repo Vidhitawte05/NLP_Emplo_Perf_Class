@@ -32,7 +32,7 @@ The following models were implemented and evaluated:
 
 Machine Learning Models:
 
-Random Forest Classifier
+* Random Forest Classifier
 
 Gradient Boosting Classifier
 
