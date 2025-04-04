@@ -52,6 +52,10 @@ Language Models:
 
 * RoBERTa (Robustly Optimized BERT Approach)
 
+## Result Analysis ##
+![Screenshot 2025-04-04 132030](https://github.com/user-attachments/assets/23d08a0e-0e5d-428e-b910-d1f75e3b58d6)
+
+
 ## Key Observations & Challenges ##
 
 Observations:
